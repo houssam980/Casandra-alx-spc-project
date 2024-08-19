@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.testimonials {
+    padding: 60px 20px;
+    background: #f0f8ff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+  
+  .testimonials-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .testimonials-title {
+    font-size: 2.5rem;
+    color: #00796b;
+    margin-bottom: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .testimonials-icon {
+    font-size: 2rem;
+    color: #00796b;
+    margin-right: 10px;
+  }
+  
+  .testimonial-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .testimonial-item {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .testimonial-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .testimonial-text {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .testimonial-name {
+    font-size: 1.2rem;
+    color: #00796b;
+    font-weight: 600;
+  }
+  
+  .testimonial-role {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+  .testimonial-rating {
+    font-size: 1.2rem;
+    color: #ffd700; /* Gold color for stars */
+    margin-top: 10px;
+  }
+  
