@@ -1,0 +1,165 @@
+{
+  "cities": [
+    {
+      "name": "Casablanca",
+      "price": 120,
+      "availableSeats": 20,
+      "id": "bc94"
+    },
+    {
+      "name": "Rabat",
+      "price": 100,
+      "availableSeats": 15,
+      "id": "6407"
+    },
+    {
+      "name": "Marrakech",
+      "price": 150,
+      "availableSeats": 25,
+      "id": "5bb5"
+    },
+    {
+      "name": "Tangier",
+      "price": 130,
+      "availableSeats": 10,
+      "id": "f5a5"
+    },
+    {
+      "name": "Fes",
+      "price": 110,
+      "availableSeats": 30,
+      "id": "52f6"
+    },
+    {
+      "name": "Agadir",
+      "price": 140,
+      "availableSeats": 18,
+      "id": "886a"
+    },
+    {
+      "name": "Oujda",
+      "price": 90,
+      "availableSeats": 12,
+      "id": "3a40"
+    },
+    {
+      "name": "Kenitra",
+      "price": 105,
+      "availableSeats": 22,
+      "id": "db78"
+    },
+    {
+      "name": "Taza",
+      "price": 95,
+      "availableSeats": 16,
+      "id": "f0c7"
+    },
+    {
+      "name": "El Jadida",
+      "price": 125,
+      "availableSeats": 20,
+      "id": "714a"
+    },
+    {
+      "name": "Temara",
+      "price": 115,
+      "availableSeats": 14,
+      "id": "38af"
+    },
+    {
+      "name": "Tetouan",
+      "price": 120,
+      "availableSeats": 25,
+      "id": "3065"
+    },
+    {
+      "name": "Nador",
+      "price": 135,
+      "availableSeats": 10,
+      "id": "2b38"
+    },
+    {
+      "name": "Meknes",
+      "price": 125,
+      "availableSeats": 28,
+      "id": "5b90"
+    },
+    {
+      "name": "Errachidia",
+      "price": 100,
+      "availableSeats": 20,
+      "id": "17e3"
+    },
+    {
+      "name": "Ksar el-Kebir",
+      "price": 110,
+      "availableSeats": 15,
+      "id": "31ae"
+    },
+    {
+      "name": "Safi",
+      "price": 130,
+      "availableSeats": 22,
+      "id": "1d4f"
+    },
+    {
+      "name": "Azrou",
+      "price": 105,
+      "availableSeats": 18,
+      "id": "5d9a"
+    },
+    {
+      "name": "Taroudant",
+      "price": 140,
+      "availableSeats": 12,
+      "id": "4ad9"
+    },
+    {
+      "name": "Al Hoceima",
+      "price": 115,
+      "availableSeats": 25,
+      "id": "846f"
+    },
+    {
+      "name": "Khemisset",
+      "price": 95,
+      "availableSeats": 14,
+      "id": "e0ae"
+    },
+    {
+      "name": "Beni Mellal",
+      "price": 120,
+      "availableSeats": 20,
+      "id": "0cae"
+    },
+    {
+      "name": "Berkane",
+      "price": 130,
+      "availableSeats": 16,
+      "id": "c3f1"
+    },
+    {
+      "name": "Sidi Kacem",
+      "price": 125,
+      "availableSeats": 22,
+      "id": "2d34"
+    },
+    {
+      "name": "Skhirat",
+      "price": 115,
+      "availableSeats": 18,
+      "id": "d764"
+    },
+    {
+      "name": "Midelt",
+      "price": 100,
+      "availableSeats": 20,
+      "id": "01c3"
+    }
+  ],
+  "tickets": [
+    {
+    
+    }
+  ]
+}

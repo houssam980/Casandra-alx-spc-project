@@ -1,0 +1,17 @@
+{
+  "users": [
+    {},
+    {
+      "id": "70f1",
+      "fullName": "houssam ghmari",
+      "email": "houssam.ghmari1243@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7b18",
+      "fullName": "debana",
+      "email": "debana.debana@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
