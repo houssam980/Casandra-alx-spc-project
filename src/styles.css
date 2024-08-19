@@ -1,0 +1,11 @@
+/* src/styles.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  padding-top: 60px; /* Adjust if needed to account for the fixed header */
+}
+
+/* Add more global styles as needed */
