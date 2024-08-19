@@ -22,11 +22,10 @@ API using Json files and Json servers to simulate Backend
 
 Third Party Application/services  Used:
 
-DatePicker.css : 
-DateFns:
-Lucide-React:
+DatePicker.css : used to style a date picker component 
+Lucide-React: It provides a collection of SVG-based icons that you can easily use
 Google fonts: using Fonts from Google for texts .
-FontAwesome : importing Icons from FontAwesome.
+FontAwesome : importing Icons from FontAwesome
 
 
 Installation / How To Use:
